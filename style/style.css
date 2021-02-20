@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Nunito+Sans:ital,wght@0,600;1,200&display=swap');
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+
+}
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Nunito Sans', sans-serif;
+}
+/*h1{
+	font-family: 'Archivo Black', sans-serif;
+}*/
+.nav-item{
+	margin: 20px;
+}
+
+
+
+
+
+/**Media Queries**/
+@media screen and (max-width: 600px){
+	.nav-item{
+		margin: 7px;
+		padding: auto;
+	}
+	nav button {
+		display: block;
+		margin: auto;
+	}
+	.navbar-nav .nav-item  a{
+		width: 100%;
+		display: block;
+		margin: auto;
+
+	}
+	.navbar-nav .nav-item .nav-link{
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		border-bottom: 1px solid  green;
+	}
+}
