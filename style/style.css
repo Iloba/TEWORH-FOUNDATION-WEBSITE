@@ -11,6 +11,8 @@ body{
 	padding: 0;
 	box-sizing: border-box;
 	font-family: 'Nunito Sans', sans-serif;
+	-webkit-font-smoothing: antialiased;
+  	-moz-osx-font-smoothing: grayscale;
 }
 /*h1{
 	font-family: 'Archivo Black', sans-serif;
@@ -19,8 +21,46 @@ body{
 	margin: 20px;
 }
 
+.first-section{
+	background-image: url('../img/s1bg.jpg'); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center top;
+	padding: 20px;
+	height: 670px;
 
+}
 
+.first-section .welcome{
+	color: #fff;
+	margin:  220px auto;
+}
+
+.first-section .welcome .two-buttons {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.first-section .welcome .two-buttons a{
+	margin: 20px;
+}
+.teworh{
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 70px;
+}
+
+.second-section{
+	padding: 60px;
+}
+
+.welcome-text{
+	line-height: 30px;
+}
+.all-headers{
+	font-family: 'Archivo Black', sans-serif;
+}
 
 
 /**Media Queries**/
@@ -45,5 +85,8 @@ body{
 		justify-content: center;
 		align-items: center;
 		border-bottom: 1px solid  green;
+	}
+	.first-section{
+		height: auto;
 	}
 }
