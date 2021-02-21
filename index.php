@@ -86,6 +86,9 @@
 		 	 					<a class="btn btn-success" href="about.php">Learn More</a> 
 		 	 				</div>
  	 					</div>
+ 	 					<div class="col-md-6">
+ 	 						<img class="img-fluid" src="img/toe.jpg">
+ 	 					</div>
  	 			</div>
  	 		</div>
  	 </div>
