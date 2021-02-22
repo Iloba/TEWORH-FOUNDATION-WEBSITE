@@ -88,6 +88,7 @@
  	 </div>
 
  	 <div class="second-section" data-aos="fade-up" data-aos-duration="2000">
+ 	 	<h1 class=" text-center text-success all-headers">Our Leadership Team</h1> <br>
  	 		<div class="container">
  	 			<div class="row">
  	 					<div class="col-md-6">
@@ -113,11 +114,9 @@
  	 			<div class="row">
  	 				<div class="col-md-12">
  	 					<div class="welcome" data-aos="fade-left"  data-aos-duration="3000">
- 	 						<h1 class="text-center teworh">Teworh Football Academy</h1>
- 	 						<h2 class="text-center">Empowering the Youths Through Sport</h2>
-		 	 				<p class="text-center">Our Football Academy Established in 2016 has been helping over 200 Teenagers around the nation</p>
+ 	 						<h1 class="text-center teworh">We seek to train and raise new set of purpose oriented youths in our society</h1>
 		 	 				<div class="two-buttons">
-		 	 					<a class="btn btn-danger" href="fa.php">Go to Football Academy</a> 
+		 	 					<a class="btn btn-danger" href="fa.php">See our Sporting Activities</a> 
 		 	 				</div>
  	 					</div>
  	 					
