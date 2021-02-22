@@ -164,6 +164,105 @@
  	 		</div>
  	 </div>
 
+ 	 <div class="third-section">
+ 	 		<h1 class=" text-center text-success all-headers">Our Products/Services</h1> <br>
+ 	 		<div class="container">
+ 	 			<div class="row">
+ 	 				<div class="col-md-4">
+ 	 					<div class="card shadow">
+ 	 						<div class="card-header">
+ 	 							<img class="img-fluid" src="img/a-grass.jpg">
+ 	 						</div>
+ 	 						<div class="card-body">
+ 	 							<h3 class="text-success">Sales of Artificial Grass</h3>
+ 	 							<p class="welcome-text">We Sale and supply all kinds of Artificial grasses for all kinds of pitches in and around the world. we also maintain and keep pitches in good conditions.
+ 	 							</p>
+ 	 							<a class="btn btn-success" href="services.php">Learn more</a>
+ 	 						</div>
+ 	 					</div>
+ 	 				</div>
+ 	 				<div class="col-md-4">
+ 	 					<div class="card shadow">
+ 	 						<div class="card-header">
+ 	 							<div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/sport-wears.jpg')">
+                                 &nbsp;
+                            </div>
+ 	 						</div>
+ 	 						<div class="card-body">
+ 	 							<h3 class="text-success">Sales of School Sports Kits</h3>
+ 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							</p>
+ 	 							<a class="btn btn-success" href="services.php">Learn more</a>
+ 	 						</div>
+ 	 					</div>
+ 	 				</div>
+ 	 				<div class="col-md-4">
+ 	 					<div class="card shadow">
+ 	 						<div class="card-header">
+ 	 							<img class="img-fluid" src="img/a-grass.jpg">
+ 	 						</div>
+ 	 						<div class="card-body">
+ 	 							<h3 class="text-success">Sales of Artificial Grass</h3>
+ 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							</p>
+ 	 							<a class="btn btn-success" href="services.php">Learn more</a>
+ 	 						</div>
+ 	 					</div>
+ 	 				</div>
+ 	 			</div>
+ 	 		</div>
+ 	 </div>
+
+ 	 <footer class="bg-light">
+ 	 	<div class="container-fluid">
+ 	 		<div class="container">
+ 	 			<div class="row">
+	 	 			<div class="col-md-4">
+	 	 				<h3 class="text-success">Visit Us</h3>
+	 	 				<p>
+	 	 					14, Worshippers Close Malali, Kaduna, Kaduna State
+	 	 					<br>
+	 	 					<span class="text-success">Call us:  +244 8185 3755 80</span> <br>
+	 	 					<span class="text-success">Email: <a href="mailto:scarlettsney@gmail.com">Teworhacademy@gmail.com</a></span>
+	 	 				</p>
+	 	 			</div>
+	 	 			<div class="col-md-4">
+	 	 				<h3 class="text-success">About Us</h3>
+	 	 				<p>
+	 	 					<a target="_blank" class="nav-link" href="about.php">Vison and Mission</a>
+	 	 					<a target="_blank" class="nav-link" href="about.php">Address</a>
+	 	 					<a target="_blank" class="nav-link" href="about.php">Contact us</a>
+	 	 					<a target="_blank" class="nav-link" href="services.php">Services</a>
+	 	 				</p>
+	 	 			</div>
+	 	 			<div class="col-md-4">
+	 	 				<h3 class="text-success">Connect with us</h3>
+	 	 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	 	 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	 	 				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+	 	 				</p>
+	 	 			</div>
+ 	 			</div>
+ 	 		</div>
+ 	 		<hr>
+ 	 		<div class="footer-social-media">
+ 	 			<p>
+ 	 				<a target="_blank" href="#"><img src="img/instagram-svg.svg"></a>
+ 	 				<a target="_blank" href="#"><img src="img/linked-in.svg"></a>
+ 	 				<a target="_blank"  href="#"><img  src="img/facebook.svg"></a>
+ 	 				<a target="_blank"  href="#"><img  src="img/youtube.svg"></a> |
+ 	 				<a target="_blank" href="https://sney.netlify.app">Website Design</a> | 
+ 	 				<a>Copy rights &copy;2021</a>
+ 	 			</p> 
+ 	 			
+ 	 		</div>
+ 	 	</div>
+ 	 </footer>
+
  	 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>

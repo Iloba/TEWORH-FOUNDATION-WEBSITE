@@ -38,6 +38,9 @@ body{
 	background-attachment: fixed;
 	background-position: center center;
 }
+.third-section{
+	padding: 60px;
+}
 
 .first-section .welcome{
 	color: #fff;
@@ -69,8 +72,35 @@ body{
 .all-headers{
 	font-family: 'Archivo Black', sans-serif;
 }
+.card-header{
+	background: transparent;
+}
 
+footer{
+	color: #6e6e70;
+	padding: 60px;
+}
+footer a{
+	color: #6e6e70;
+}
+footer a:hover{
+	color: green;
+	text-decoration: none;
+}
 
+.footer-social-media{
+	color: green;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+
+}
+.footer-social-media p a{
+	margin: 10px;
+	color: green;
+	text-decoration: none;
+}
 /**Media Queries**/
 @media screen and (max-width: 600px){
 	.nav-item{
