@@ -90,7 +90,12 @@ body{
 	.first-section{
 		height: auto;
 	}
-	 div .container .container-fluid .row{
+	 .row div{
 		margin-bottom: 12px;
+	}
+	#one-alone a{
+		display: block;
+		width: 100%;
+		margin: auto;
 	}
 }

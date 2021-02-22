@@ -28,22 +28,22 @@
 	        <div class="collapse navbar-collapse" id="navbarSupportedContent">
 	        <ul class="navbar-nav ml-auto">
 	            <li class="nav-item">
-	                 <a class="nav-link"   href="#">About Us</a>
+	                 <a class="nav-link"   href="about.php">About Us</a>
 	            </li>
 	            <li class="nav-item">
-	                <a class="nav-link"   href="#">Products/Services</a>
+	                <a class="nav-link"   href="services.php">Products/Services</a>
 	            </li>
 	            <li class="nav-item">
-	                <a class="nav-link"   href="#">Football Academy</a>
+	                <a class="nav-link"   href="#fa.php">Football Academy</a>
 	            </li>
 	             <li class="nav-item">
-	                <a class="nav-link"   href="#">Gallery</a>
+	                <a class="nav-link"   href="gallery.php">Gallery</a>
 	            </li>
 	           <!--   <li class="nav-item">
 	                <a class="nav-link"   href="#">Support</a>
 	            </li> -->
 	            <li class="nav-item nav-btn-two">
-	                <a class=" btn btn-success"   href="#">Connect with Us</a>
+	                <a class=" btn btn-success"   href="contact.php">Connect with Us</a>
 	            </li> 
 	             <li class="nav-item nav-btn">
 	                <a class=" btn btn-danger"   href="#">Support/Donate</a>
@@ -76,19 +76,72 @@
  	 		</div>
  	 </div>
 
- 	 <div class="second-section">
+ 	 <div class="second-section" data-aos="fade-up" data-aos-duration="2000">
  	 		<div class="container">
  	 			<div class="row">
  	 					<div class="col-md-6">
  	 						<h3 class="text-success all-headers">PRIVATE NIGERIAN FOUNDATION CHAMPIONING YOUTH EMPOWERMENT ACROSS NIGERIA</h3>
  	 						<p class="welcome-text">The Teworh Foundation is the leading champion of Empowerment in Nigeria. Our objective is to empower women and men across our Nation using Sports,  driving poverty eradication and providing for the less priviledged. We believe that every Child, youth, man or woman deserves to live a better life and Grow to Impact their world</p>
- 	 						<div class="two-buttons">
+ 	 						<div id="one-alone" class="two-buttons">
 		 	 					<a class="btn btn-success" href="about.php">Learn More</a> 
 		 	 				</div>
  	 					</div>
  	 					<div class="col-md-6">
  	 						<img class="img-fluid" src="img/toe.jpg">
  	 					</div>
+ 	 			</div>
+ 	 		</div>
+ 	 </div>
+
+ 	 <div class="second-section" data-aos="fade-up" data-aos-duration="2000">
+ 	 		<div class="container">
+ 	 			<div class="row">
+ 	 					<div class="col-md-6">
+ 	 						<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+							  <ol class="carousel-indicators">
+							    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+							    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+							    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+							  </ol>
+							  <div class="carousel-inner">
+							    <div class="carousel-item active">
+							      <img class="d-block w-100" src="img/badmiton.jpg" alt="First slide">
+							      <div class="carousel-caption d-none d-md-block">
+								    <h4 class="all-headers">Badmiton</h4>
+								  </div>
+							    </div>
+							    <div class="carousel-item">
+							      <img class="d-block w-100" src="img/football.jpg" alt="Second slide">
+							       <div class="carousel-caption d-none d-md-block">
+								    <h4 class="all-headers">Football</h4>
+								  </div>
+							    </div>
+							    <div class="carousel-item">
+							      <img class="d-block w-100" src="img/table-tennis.jpg" alt="Third slide">
+							      <div class="carousel-caption d-none d-md-block">
+								    <h4 class="all-headers">Table Tennis</h4>
+								  </div>
+							    </div>
+							  </div>
+							  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+							    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							    <span class="sr-only">Previous</span>
+							  </a>
+							  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+							    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+							    <span class="sr-only">Next</span>
+							  </a>
+							</div>
+ 	 					</div>
+
+ 	 					<div class="col-md-6">
+ 	 						<h3 class="text-success all-headers">USING SPORTS TO EMPOWER THE YOUTHS</h3>
+ 	 						<p class="welcome-text">Sports is a vital Part and Ingredient of Societal Unity, thats why Teworh Foundation is utilizing the tool to help Kids, Teenagers and Young Adults come together, unite and Actualize their dreams. We belive that using sports as a tool, Drug abuse, Smoking and other Bad Societal Vices will be dealt with.</p>
+ 	 						<div id="one-alone" class="two-buttons">
+		 	 					<a class="btn btn-danger" href="fa.php">Learn More</a> 
+		 	 				</div>
+ 	 					</div>
+ 	 					
  	 			</div>
  	 		</div>
  	 </div>
