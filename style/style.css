@@ -183,8 +183,24 @@ footer a:hover{
   }
   .second-section{
   	width: 100%;
+  	padding: 20px;
   }
   .third-section{
   	width: 100%;
+  	padding: 20px;
+  }
+  .card h3, p, a{
+  
+  	text-align: center;
+  }
+  .card a{
+  	display: block;
+  	width: 100%;
+  	margin: auto;
+  }
+  .all-headers{
+  	display: block;
+  	margin: auto;
+  	text-align: center;
   }
 }

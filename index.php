@@ -87,7 +87,7 @@
 		 	 				</div>
  	 					</div>
  	 					<div class="col-md-6">
- 	 						<img class="img-fluid" src="img/toe.jpg">
+ 	 						<img class="img-fluid" src="img/needy.jpg">
  	 					</div>
  	 			</div>
  	 		</div>
