@@ -31,6 +31,9 @@ body{
 	height: 670px;
 
 }
+#about-first-section{
+	background-image: url('../img/teworh-1.jpg'); 
+}
 #fa-section{
 	background-image: url('../img/teworh-5.jpg'); 
 	background-size: cover;

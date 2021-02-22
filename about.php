@@ -53,7 +53,7 @@
 	        </ul>
 	    </div>
  	 </nav>
- 	 <div  class="first-section">
+ 	 <div  class="first-section" id="about-first-section">
  	 		<div class="container">
  	 			<div class="row">
  	 				<div class="col-md-12">
@@ -75,6 +75,14 @@
  	 						<h1 class="text-success text-center all-headers">Who we are</h1>
  	 						<p class=" text-center welcome-text">The Teworh Foundation is the leading champion of Empowerment in Nigeria. Our objective is to empower women and men across our Nation using Sports,  driving poverty eradication and providing for the less priviledged. We believe that every Child, youth, man or woman deserves to live a better life and Grow to Impact their world</p>
  	 					</div>
+ 	 					<div class="col-md-12">
+ 	 						<h1 class="text-success text-center all-headers">Our History</h1>
+ 	 						<p class=" text-center welcome-text">The Teworh Foundation is the leading champion of Empowerment in Nigeria. Our objective is to empower women and men across our Nation using Sports,  driving poverty eradication and providing for the less priviledged. We believe that every Child, youth, man or woman deserves to live a better life and Grow to Impact their world</p>
+ 	 					</div>
+ 	 					<div class="col-md-12">
+ 	 						<h1 class="text-success text-center all-headers">Our Values</h1>
+ 	 						<p class=" text-center welcome-text">The Teworh Foundation is the leading champion of Empowerment in Nigeria. Our objective is to empower women and men across our Nation using Sports,  driving poverty eradication and providing for the less priviledged. We believe that every Child, youth, man or woman deserves to live a better life and Grow to Impact their world</p>
+ 	 					</div>
  	 			</div>
  	 		</div>
  	 </div>
@@ -83,48 +91,16 @@
  	 		<div class="container">
  	 			<div class="row">
  	 					<div class="col-md-6">
- 	 						<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-							  <ol class="carousel-indicators">
-							    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-							    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-							    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-							  </ol>
-							  <div class="carousel-inner">
-							    <div class="carousel-item active">
-							      <img class="d-block w-100" src="img/teworh-2.jpg" alt="First slide">
-							      <div class="carousel-caption d-none d-md-block">
-								    <h4 class="all-headers">Badmiton</h4>
-								  </div>
-							    </div>
-							    <div class="carousel-item">
-							      <img class="d-block w-100" src="img/teworh-3.jpg" alt="Second slide">
-							       <div class="carousel-caption d-none d-md-block">
-								    <h4 class="all-headers">Football</h4>
-								  </div>
-							    </div>
-							    <div class="carousel-item">
-							      <img class="d-block w-100" src="img/teworh-5.jpg" alt="Third slide">
-							      <div class="carousel-caption d-none d-md-block">
-								    <h4 class="all-headers">Table Tennis</h4>
-								  </div>
-							    </div>
-							  </div>
-							  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-							    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-							    <span class="sr-only">Previous</span>
-							  </a>
-							  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-							    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-							    <span class="sr-only">Next</span>
-							  </a>
-							</div>
+ 	 						<img class="img-fluid" src="img/founder.jpg">
  	 					</div>
 
  	 					<div class="col-md-6">
- 	 						<h3 class="text-success all-headers">USING SPORTS TO EMPOWER THE YOUTHS</h3>
- 	 						<p class="welcome-text">Sports is a vital Part and Ingredient of Societal Unity, thats why Teworh Foundation is utilizing the tool to help Kids, Teenagers and Young Adults come together, unite and Actualize their dreams. We belive that using sports as a tool, Drug abuse, Smoking and other Bad Societal Vices will be dealt with.</p>
+ 	 						<h3 class="text-success all-headers"> Mr. Suraj Ola Olawoye</h3>
+ 	 						<p class="welcome-text">He is the Founder of Teworh Foundation...Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+ 	 						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+ 	 						</p>
  	 						<div id="one-alone" class="two-buttons">
-		 	 					<a class="btn btn-danger" href="fa.php">Learn More</a> 
+		 	 					<a class="btn btn-danger" href="mailto:teworhfoundation@gmail.com">Reach Him</a> 
 		 	 				</div>
  	 					</div>
  	 					
