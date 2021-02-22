@@ -256,7 +256,7 @@
 	 	 			</div>
 	 	 			<div class="col-md-4">
 	 	 				<h3 class="text-success">Teworh Football Academy</h3>
-	 	 				<p>Join our football Academy today for  life changing environment of fun and personal development <br> brand
+	 	 				<p>Join our football Academy today for  life changing environment of fun and personal development <br> <br>
 	 	 					<a href="fa.php" class="btn btn-danger">Visit Football Academy</a>
 	 	 				</p>
 	 	 			</div>
