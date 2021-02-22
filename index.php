@@ -271,7 +271,7 @@
  	 				<a target="_blank"  href="facebook.com/Teworh-Foundation-108909477432830/"><img  src="img/facebook.svg"></a>
  	 				<a target="_blank"  href="https://www.youtube.com/channel/UC1khibMPPNCeJW4xltnz6xw"><img  src="img/youtube.svg"></a> |
  	 				<a target="_blank" href="https://sney.netlify.app">Website Design</a> | 
- 	 				<a>Copy rights &copy;2021</a>
+ 	 				<a>&copy;2021</a>
  	 			</p> 
  	 			
  	 		</div>
