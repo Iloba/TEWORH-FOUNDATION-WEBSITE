@@ -34,7 +34,7 @@
 	                <a class="nav-link"   href="services.php">Products/Services</a>
 	            </li>
 	            <li class="nav-item">
-	                <a class="nav-link"   href="#fa.php">Football Academy</a>
+	                <a class="nav-link"   href="fa.php">Football Academy</a>
 	            </li>
 	             <li class="nav-item">
 	                <a class="nav-link"   href="gallery.php">Gallery</a>
