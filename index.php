@@ -164,7 +164,7 @@
  	 		</div>
  	 </div>
 
- 	 <div class="third-section">
+ 	 <div class="third-section" data-aos="fade-up" data-aos-duration="2000">
  	 		<h1 class=" text-center text-success all-headers">Our Products/Services</h1> <br>
  	 		<div class="container">
  	 			<div class="row">
@@ -217,7 +217,22 @@
  	 		</div>
  	 </div>
 
- 	 <footer class="bg-light">
+
+
+ 	  <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="mapsection" data-aos="fade-up" data-aos-duration="2000">
+                        <h2 class="text-center text-success all-headers">Locate Us today</h2><br>
+                        <div class="map-responsive">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3922.9623625224945!2d7.431872114285233!3d10.503630667043055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104d35647244574b%3A0x690b4de7ddf5d675!2sConstitution%20Rd%2C%20Kaduna!5e0!3m2!1sen!2sng!4v1591707094530!5m2!1sen!2sng" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+ 	 <footer data-aos="fade-up" data-aos-duration="2000" class="bg-light">
  	 	<div class="container-fluid">
  	 		<div class="container">
  	 			<div class="row">
@@ -241,7 +256,7 @@
 	 	 			</div>
 	 	 			<div class="col-md-4">
 	 	 				<h3 class="text-success">Teworh Football Academy</h3>
-	 	 				<p>Join our football Academy today for  life changing environment of fun and personal development <br> <br>
+	 	 				<p>Join our football Academy today for  life changing environment of fun and personal development <br> brand
 	 	 					<a href="fa.php" class="btn btn-danger">Visit Football Academy</a>
 	 	 				</p>
 	 	 			</div>
