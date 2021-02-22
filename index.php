@@ -66,7 +66,7 @@
 		 	 				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 		 	 				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		 	 				<div class="two-buttons">
-		 	 					<a class="btn btn-success" href="#">Our Vision</a> 
+		 	 					<a class="btn btn-success" href="about.php">Our Vision</a> 
 		 	 					<a class="btn btn-danger" href="#">Donate</a>
 		 	 				</div>
  	 					</div>
@@ -142,9 +142,28 @@
 		 	 				</div>
  	 					</div>
  	 					
+ 	 				</div>
+ 	 			</div>
+ 		 </div>
+
+ 		<div  class="first-section" id="fa-section">
+ 	 		<div class="container">
+ 	 			<div class="row">
+ 	 				<div class="col-md-12">
+ 	 					<div class="welcome" data-aos="fade-left"  data-aos-duration="3000">
+ 	 						<h1 class="text-center teworh">Teworh Football Academy</h1>
+ 	 						<h2 class="text-center">Empowering the Youths Through Sport</h2>
+		 	 				<p class="text-center">Our Football Academy Established in 2016 has been helping over 200 Teenagers around the nation</p>
+		 	 				<div class="two-buttons">
+		 	 					<a class="btn btn-danger" href="fa.php">Go to Football Academy</a> 
+		 	 				</div>
+ 	 					</div>
+ 	 					
+ 	 				</div>
  	 			</div>
  	 		</div>
  	 </div>
+
  	 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>

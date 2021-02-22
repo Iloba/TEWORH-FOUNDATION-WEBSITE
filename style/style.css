@@ -31,6 +31,13 @@ body{
 	height: 670px;
 
 }
+#fa-section{
+	background-image: url('../img/fa.jpg'); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+}
 
 .first-section .welcome{
 	color: #fff;
