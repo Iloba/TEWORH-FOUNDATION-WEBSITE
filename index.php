@@ -5,8 +5,9 @@
 	 <link rel="icon" href="img/logo.jpg">
 	<title>P & A Football Academy</title>
     <meta charset="utf-8">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="Teworh Foundation is a Non Governmental Organisation that seeks to train and raise a new set of purpose oriented youths in our society through sports and skill aquisition.
+	we are non-profit">
+    <meta name="keywords" content=" teworh foundation, #teworhfoundation Foundation in Kaduna Football academy in Kaduna, Helping the needy in Kaduna, Youths and Sports in Kaduna, Children & Youth Foundation">
     <meta name="author" content="Emeka Iloba Timothy">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="imagetoolbar" content="no">
@@ -58,13 +59,11 @@
  	 				<div class="col-md-12">
  	 					<div class="welcome" data-aos="fade-left"  data-aos-duration="3000">
  	 						<h1 class="text-center teworh">Teworh Foundation</h1>
- 	 						<h2 class="text-center">Empowering the Youths Through Sport</h2>
-		 	 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		 	 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		 	 				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		 	 				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		 	 				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		 	 				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+ 	 						<h2 class="text-center all-headers">Children and Youths Foundation</h2>
+		 	 				<p class="text-center">
+		 	 					Teworh Foundation is a Non Governmental Organisation that seeks to train and raise a new set of purpose oriented youths in our society through sports and skill aquisition.
+								we are non-profit
+							</p>
 		 	 				<div class="two-buttons">
 		 	 					<a class="btn btn-success" href="about.php">Our Vision</a> 
 		 	 					<a class="btn btn-danger" href="#">Donate</a>
@@ -87,7 +86,7 @@
 		 	 				</div>
  	 					</div>
  	 					<div class="col-md-6">
- 	 						<img class="img-fluid" src="img/needy.jpg">
+ 	 						<img class="img-fluid" src="img/teworh-6.jpg">
  	 					</div>
  	 			</div>
  	 		</div>
@@ -105,19 +104,19 @@
 							  </ol>
 							  <div class="carousel-inner">
 							    <div class="carousel-item active">
-							      <img class="d-block w-100" src="img/badmiton.jpg" alt="First slide">
+							      <img class="d-block w-100" src="img/teworh-2.jpg" alt="First slide">
 							      <div class="carousel-caption d-none d-md-block">
 								    <h4 class="all-headers">Badmiton</h4>
 								  </div>
 							    </div>
 							    <div class="carousel-item">
-							      <img class="d-block w-100" src="img/football.jpg" alt="Second slide">
+							      <img class="d-block w-100" src="img/teworh-3.jpg" alt="Second slide">
 							       <div class="carousel-caption d-none d-md-block">
 								    <h4 class="all-headers">Football</h4>
 								  </div>
 							    </div>
 							    <div class="carousel-item">
-							      <img class="d-block w-100" src="img/table-tennis.jpg" alt="Third slide">
+							      <img class="d-block w-100" src="img/teworh-5.jpg" alt="Third slide">
 							      <div class="carousel-caption d-none d-md-block">
 								    <h4 class="all-headers">Table Tennis</h4>
 								  </div>
@@ -184,9 +183,9 @@
  	 				<div class="col-md-4">
  	 					<div class="card shadow">
  	 						<div class="card-header">
- 	 							<div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/sport-wears.jpg')">
+ 	 							<div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/teworh-6.jpg')">
                                  &nbsp;
-                            </div>
+                            	</div>
  	 						</div>
  	 						<div class="card-body">
  	 							<h3 class="text-success">Sales of School Sports Kits</h3>
@@ -201,7 +200,9 @@
  	 				<div class="col-md-4">
  	 					<div class="card shadow">
  	 						<div class="card-header">
- 	 							<img class="img-fluid" src="img/a-grass.jpg">
+ 	 							<div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/teworh-4.jpg')">
+                                 &nbsp;
+                            	</div>
  	 						</div>
  	 						<div class="card-body">
  	 							<h3 class="text-success">Sales of Artificial Grass</h3>
@@ -241,8 +242,8 @@
 	 	 				<p>
 	 	 					14, Worshippers Close Malali, Kaduna, Kaduna State
 	 	 					<br>
-	 	 					<span class="text-success">Call us:  +244 8185 3755 80</span> <br>
-	 	 					<span class="text-success">Email: <a href="mailto:scarlettsney@gmail.com">Teworhacademy@gmail.com</a></span>
+	 	 					<span class="text-success">Call us: + 234 (0) 902 403 4028</span> <br>
+	 	 					<span class="text-success">Email: <a href="mailto:teworhfoundation@gmail.com">teworhfoundation@gmail.com</a></span>
 	 	 				</p>
 	 	 			</div>
 	 	 			<div class="col-md-4">
@@ -265,10 +266,10 @@
  	 		<hr>
  	 		<div class="footer-social-media">
  	 			<p>
- 	 				<a target="_blank" href="#"><img src="img/instagram-svg.svg"></a>
+ 	 				<a target="_blank" href="https://www.instagram.com/teworhsccf/"><img src="img/instagram-svg.svg"></a>
  	 				<a target="_blank" href="#"><img src="img/linked-in.svg"></a>
- 	 				<a target="_blank"  href="#"><img  src="img/facebook.svg"></a>
- 	 				<a target="_blank"  href="#"><img  src="img/youtube.svg"></a> |
+ 	 				<a target="_blank"  href="facebook.com/Teworh-Foundation-108909477432830/"><img  src="img/facebook.svg"></a>
+ 	 				<a target="_blank"  href="https://www.youtube.com/channel/UC1khibMPPNCeJW4xltnz6xw"><img  src="img/youtube.svg"></a> |
  	 				<a target="_blank" href="https://sney.netlify.app">Website Design</a> | 
  	 				<a>Copy rights &copy;2021</a>
  	 			</p> 
