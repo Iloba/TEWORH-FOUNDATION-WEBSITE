@@ -22,7 +22,7 @@
 </head>
 <body>
 		<nav class=" height sticky-top navbar navbar-expand-lg navbar-light bg-light shadow">
-	        <a style="margin-left: 60px;" class="navbar-brand" id="brand" href="index.php"><img draggable="false" class="navbar-brand" style="width: 40%" src="img/logo.jpg"></a>
+	        <a class="navbar-brand" id="brand" href="index.php"><img draggable="false" class="navbar-brand" style="width: 40%" src="img/logo.jpg"></a>
 	        <button class="navbar-toggler bg-white" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="					navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 	              <span class="navbar-toggler-icon"></span>
 	        </button>
