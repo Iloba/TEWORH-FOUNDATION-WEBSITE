@@ -27,7 +27,7 @@
  	 			<div class="row">
  	 				<div class="col-md-12">
  	 					<div class="welcome" data-aos="fade-left"  data-aos-duration="3000">
- 	 						<h1 class="text-center teworh">Teworh Foundation</h1>
+ 	 						<h1 class="text-center teworh" id="teworh">Teworh Foundation</h1>
  	 						<h2 class="text-center all-headers">Children and Youths Foundation</h2>
 		 	 				<p class="text-center">
 		 	 					Teworh Foundation is a Non Governmental Organisation that seeks to train and raise a new set of purpose oriented youths in our society through sports and skill aquisition.
@@ -174,7 +174,7 @@
                             	</div>
  	 						</div>
  	 						<div class="card-body">
- 	 							<h3 class="text-success">Sales of Artificial Grass</h3>
+ 	 							<h3 class="text-success">Tartan</h3>
  	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -214,9 +214,9 @@
 	<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js"></script>
 	<script>
 	
-		gsap.from('.welcome', 
+		gsap.from('#teworh', 
 		{
-
+			// width: 2, duration: 2, ease: SteppedEase.config(20)
 			// opacity: 0, duration: 1, y: -50, ease: 'Power2.easeInOut'
 		});
 
