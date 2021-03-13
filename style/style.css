@@ -73,11 +73,24 @@ body{
 	line-height: 30px;
 	color: #6e6e70;
 }
+.form-control{
+	height: 60px;
+	font-size: 20px;
+	color: green;
+}
+
+.form-control::placeholder{
+	color: green;
+}
 .all-headers{
 	font-family: 'Archivo Black', sans-serif;
 }
 .card-header{
 	background: transparent;
+}
+.form-container{
+	background: #FFFAFA;
+	padding: 35px;
 }
 ul li{
 	color: #6e6e70;
@@ -134,7 +147,11 @@ footer span a{
 .navbar-brand{
 	 margin-left: 60px;
 }
-
+label{
+	font-size: 20px;
+	color: green;
+	font-weight: bold;
+}
 
 
 
@@ -227,5 +244,7 @@ footer span a{
 		font-size: 40px;
 		text-shadow: 3px 2px 7px rgba(150, 204, 150, 1);
 	}
-
+	.form-container{
+		margin: 10px;
+	}
 }

@@ -23,26 +23,27 @@
 <body>
 		<?php require 'includes/header.php'; ?>
  	 <div  class="first-section">
- 	 		<div class="container">
- 	 			<div class="row">
- 	 				<div class="col-md-8 mx-auto">
- 	 					<div class="welcome" data-aos="fade-left"  data-aos-duration="3000">
- 	 						<h1 class="text-center all-headers">Contact Us Today</h1> <br>
- 	 							<form method="POST" action="">
- 	 								<input type="text" class="form-control" name="Name" placeholder="Enter Full Name" required=""> <br>
- 	 								<input type="Email" class="form-control" name="Email" placeholder="Enter a Valid Email Address" required=""> <br>
- 	 								<textarea class="form-control" name="Message"  placeholder="Enter Message" required="">
- 	 									
- 	 								</textarea> <br>
- 	 								<input class="btn btn-success" type="submit" name="submit" value="Send Message">
- 	 							</form>
- 	 					</div>
- 	 					
- 	 				</div>
- 	 			</div>
- 	 		</div>
- 	 </div>
-
+ 		<div class="container">
+ 			<div class="row">
+ 				<div class="col-md-8 mx-auto">
+ 					<div class="" data-aos="fade-left"  data-aos-duration="3000">
+ 						
+						<form class="form-container shadow" method="POST" action="">
+							<h1 class="text-center text-success all-headers">Contact Us Today</h1> <br>
+							<label >Full Name</label>
+							<input type="text" class="form-control" name="Name" placeholder="Enter Full Name" required=""> <br>
+							<label>Email Address</label>
+							<input type="Email" class="form-control" name="Email" placeholder="Enter a Valid Email Address" required=""> <br>
+							<label>Message</label>
+							<textarea class="form-control" name="Message"  placeholder="Enter Message" required="">
+							</textarea> <br>
+							<input class="btn btn-success" type="submit" name="submit" value="Send Message"> <br>
+						</form> 
+ 					</div> 
+ 				</div>
+ 			</div>
+ 		</div>
+ 	 </div> 
  	
  	 <?php require 'includes/footer.php'; ?>
 

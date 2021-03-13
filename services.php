@@ -99,58 +99,160 @@
  	 		</div>
  	 </div>
 
- 	 <div class="second-section" data-aos="fade-up" data-aos-duration="2000">
+ 	  <div class="third-section" data-aos="fade-up" data-aos-duration="2000">
+ 	 		<h1 class=" text-center text-success all-headers">Our Products/Services</h1> <br>
  	 		<div class="container">
  	 			<div class="row">
- 	 					<div class="col-md-6">
- 	 						<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-							  <ol class="carousel-indicators">
-							    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-							    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-							    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-							  </ol>
-							  <div class="carousel-inner">
-							    <div class="carousel-item active">
-							      <img class="d-block w-100" src="img/teworh-2.jpg" alt="First slide">
-							      <div class="carousel-caption d-none d-md-block">
-								    <h4 class="all-headers">Badmiton</h4>
-								  </div>
-							    </div>
-							    <div class="carousel-item">
-							      <img class="d-block w-100" src="img/teworh-3.jpg" alt="Second slide">
-							       <div class="carousel-caption d-none d-md-block">
-								    <h4 class="all-headers">Football</h4>
-								  </div>
-							    </div>
-							    <div class="carousel-item">
-							      <img class="d-block w-100" src="img/teworh-5.jpg" alt="Third slide">
-							      <div class="carousel-caption d-none d-md-block">
-								    <h4 class="all-headers">Table Tennis</h4>
-								  </div>
-							    </div>
-							  </div>
-							  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-							    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-							    <span class="sr-only">Previous</span>
-							  </a>
-							  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-							    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-							    <span class="sr-only">Next</span>
-							  </a>
-							</div>
+ 	 				<div class="col-md-4">
+ 	 					<div class="card shadow">
+ 	 						<div class="card-header">
+ 	 							<img class="img-fluid" src="img/a-grass.jpg">
+ 	 						</div>
+ 	 						<div class="card-body">
+ 	 							<h3 class="text-success">Sales of Artificial Grass</h3>
+ 	 							<p class="welcome-text">We Sale and supply all kinds of Artificial grasses for all kinds of pitches in and around the world. we also maintain and keep pitches in good conditions.
+ 	 							</p>
+ 	 							<a class="btn btn-success" href="contact.php">Request a Quote</a>
+ 	 						</div>
  	 					</div>
-
- 	 					<div class="col-md-6">
- 	 						<h3 class="text-success all-headers">USING SPORTS TO EMPOWER THE YOUTHS</h3>
- 	 						<p class="welcome-text">Sports is a vital Part and Ingredient of Societal Unity, thats why Teworh Foundation is utilizing the tool to help Kids, Teenagers and Young Adults come together, unite and Actualize their dreams. We belive that using sports as a tool, Drug abuse, Smoking and other Bad Societal Vices will be dealt with.</p>
- 	 						<div id="one-alone" class="two-buttons">
-		 	 					<a class="btn btn-danger" href="fa.php">Learn More</a> 
-		 	 				</div>
+ 	 				</div>
+ 	 				<div class="col-md-4">
+ 	 					<div class="card shadow">
+ 	 						<div class="card-header">
+ 	 							<div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/teworh-6.jpg')">
+                                 &nbsp;
+                            	</div>
+ 	 						</div>
+ 	 						<div class="card-body">
+ 	 							<h3 class="text-success">Sales of School Sports Kits</h3>
+ 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							</p>
+ 	 							<a class="btn btn-success" href="contact.php">Request a Quote</a>
+ 	 						</div>
  	 					</div>
- 	 					
+ 	 				</div>
+ 	 				<div class="col-md-4">
+ 	 					<div class="card shadow">
+ 	 						<div class="card-header">
+ 	 							<div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/teworh-4.jpg')">
+                                 &nbsp;
+                            	</div>
+ 	 						</div>
+ 	 						<div class="card-body">
+ 	 							<h3 class="text-success">Sales of Artificial Grass</h3>
+ 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							</p>
+ 	 							<a class="btn btn-success" href="contact.php">Request a Quote</a>
+ 	 						</div>
+ 	 					</div>
+ 	 				</div>
+ 	 			</div> <br>
+ 	 			<div class="row">
+ 	 				<div class="col-md-4">
+ 	 					<div class="card shadow">
+ 	 						<div class="card-header">
+ 	 							<img class="img-fluid" src="img/a-grass.jpg">
+ 	 						</div>
+ 	 						<div class="card-body">
+ 	 							<h3 class="text-success">Sports Consultancy</h3>
+ 	 							<p class="welcome-text">We Sale and supply all kinds of Artificial grasses for all kinds of pitches in and around the world. we also maintain and keep pitches in good conditions.
+ 	 							</p>
+ 	 							<a class="btn btn-success" href="contact.php">Request a Quote</a>
+ 	 						</div>
+ 	 					</div>
+ 	 				</div>
+ 	 				<div class="col-md-4">
+ 	 					<div class="card shadow">
+ 	 						<div class="card-header">
+ 	 							<div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/teworh-6.jpg')">
+                                 &nbsp;
+                            	</div>
+ 	 						</div>
+ 	 						<div class="card-body">
+ 	 							<h3 class="text-success">Badmiton Club</h3>
+ 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							</p>
+ 	 							<a class="btn btn-success" href="contact.php">Join Club</a>
+ 	 						</div>
+ 	 					</div>
+ 	 				</div>
+ 	 				<div class="col-md-4">
+ 	 					<div class="card shadow">
+ 	 						<div class="card-header">
+ 	 							<div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/teworh-4.jpg')">
+                                 &nbsp;
+                            	</div>
+ 	 						</div>
+ 	 						<div class="card-body">
+ 	 							<h3 class="text-success">Cycling Club</h3>
+ 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							</p>
+ 	 							<a class="btn btn-success" href="contact.php">Join Club</a>
+ 	 						</div>
+ 	 					</div>
+ 	 				</div>
+ 	 			</div> <br>
+ 	 				<div class="row">
+ 	 				<div class="col-md-4">
+ 	 					<div class="card shadow">
+ 	 						<div class="card-header">
+ 	 							<img class="img-fluid" src="img/a-grass.jpg">
+ 	 						</div>
+ 	 						<div class="card-body">
+ 	 							<h3 class="text-success">Hiking Club</h3>
+ 	 							<p class="welcome-text">We Sale and supply all kinds of Artificial grasses for all kinds of pitches in and around the world. we also maintain and keep pitches in good conditions.
+ 	 							</p>
+ 	 							<a class="btn btn-success" href="contact.php">Join Club</a>
+ 	 						</div>
+ 	 					</div>
+ 	 				</div>
+ 	 				<div class="col-md-4">
+ 	 					<div class="card shadow">
+ 	 						<div class="card-header">
+ 	 							<div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/teworh-6.jpg')">
+                                 &nbsp;
+                            	</div>
+ 	 						</div>
+ 	 						<div class="card-body">
+ 	 							<h3 class="text-success">Table Tennis Club</h3>
+ 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							</p>
+ 	 							<a class="btn btn-success" href="contact.php">Join Club</a>
+ 	 						</div>
+ 	 					</div>
+ 	 				</div>
+ 	 				<div class="col-md-4">
+ 	 					<div class="card shadow">
+ 	 						<div class="card-header">
+ 	 							<div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/teworh-4.jpg')">
+                                 &nbsp;
+                            	</div>
+ 	 						</div>
+ 	 						<div class="card-body">
+ 	 							<h3 class="text-success">Swimming Club</h3>
+ 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							</p>
+ 	 							<a class="btn btn-success" href="contact.php">Join Club</a>
+ 	 						</div>
+ 	 					</div>
  	 				</div>
  	 			</div>
- 		 </div>
+ 	 		</div>
+ 	 </div>
+
+ 	 
 
  		<div  class="first-section" id="fa-section">
  	 		<div class="container">
@@ -170,60 +272,7 @@
  	 		</div>
  	 </div>
 
- 	 <div class="third-section" data-aos="fade-up" data-aos-duration="2000">
- 	 		<h1 class=" text-center text-success all-headers">Our Products/Services</h1> <br>
- 	 		<div class="container">
- 	 			<div class="row">
- 	 				<div class="col-md-4">
- 	 					<div class="card shadow">
- 	 						<div class="card-header">
- 	 							<img class="img-fluid" src="img/a-grass.jpg">
- 	 						</div>
- 	 						<div class="card-body">
- 	 							<h3 class="text-success">Sales of Artificial Grass</h3>
- 	 							<p class="welcome-text">We Sale and supply all kinds of Artificial grasses for all kinds of pitches in and around the world. we also maintain and keep pitches in good conditions.
- 	 							</p>
- 	 							<a class="btn btn-success" href="services.php">Learn more</a>
- 	 						</div>
- 	 					</div>
- 	 				</div>
- 	 				<div class="col-md-4">
- 	 					<div class="card shadow">
- 	 						<div class="card-header">
- 	 							<div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/teworh-6.jpg')">
-                                 &nbsp;
-                            	</div>
- 	 						</div>
- 	 						<div class="card-body">
- 	 							<h3 class="text-success">Sales of School Sports Kits</h3>
- 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
- 	 							</p>
- 	 							<a class="btn btn-success" href="services.php">Learn more</a>
- 	 						</div>
- 	 					</div>
- 	 				</div>
- 	 				<div class="col-md-4">
- 	 					<div class="card shadow">
- 	 						<div class="card-header">
- 	 							<div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/teworh-4.jpg')">
-                                 &nbsp;
-                            	</div>
- 	 						</div>
- 	 						<div class="card-body">
- 	 							<h3 class="text-success">Sales of Artificial Grass</h3>
- 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
- 	 							</p>
- 	 							<a class="btn btn-success" href="services.php">Learn more</a>
- 	 						</div>
- 	 					</div>
- 	 				</div>
- 	 			</div>
- 	 		</div>
- 	 </div>
+ 	
 
 
 
