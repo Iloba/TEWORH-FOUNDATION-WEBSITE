@@ -89,7 +89,7 @@ body{
 	background: transparent;
 }
 .form-container{
-	background: #FFFAFA;
+	background: #FFF;
 	padding: 35px;
 }
 ul li{
@@ -152,8 +152,10 @@ label{
 	color: green;
 	font-weight: bold;
 }
-
-
+.gallery-section{
+	background: #fff;
+	padding: 20px;
+}
 
 
 
