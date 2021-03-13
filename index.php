@@ -203,13 +203,23 @@
         </div>
 
  		<?php require 'includes/footer.php'; ?>
-
+<!--  		<script type="text/javascript" src="canvas.js"></script> -->
  	 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 	<script>
   		AOS.init();
+	</script>
+	<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js"></script>
+	<script>
+	
+		gsap.from('.welcome', 
+		{
+
+			// opacity: 0, duration: 1, y: -50, ease: 'Power2.easeInOut'
+		});
+
 	</script>
 </body>
 </html>
