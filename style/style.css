@@ -56,6 +56,12 @@ body{
 	align-items: center;
 	
 }
+.ssc .welcome .two-buttons {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
 .first-section .welcome .two-buttons a{
 	margin: 20px;
 }
@@ -155,6 +161,13 @@ label{
 .gallery-section{
 	background: #fff;
 	padding: 20px;
+}
+.ssc{
+	padding: 60px;
+	background-image: url('../img/teworh-7.jpg'); 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
 }
 
 

@@ -89,7 +89,7 @@
  	 							</ul> 
  	 						</p>
  	 						<div id="one-alone" class="two-buttons">
-		 	 					<a class="btn btn-success" href="about.php">Learn More</a> 
+		 	 					<a class="btn btn-success" href="#services">Learn More</a> 
 		 	 				</div>
  	 					</div>
  	 					<div class="col-md-6">
@@ -99,7 +99,7 @@
  	 		</div>
  	 </div>
 
- 	  <div class="third-section" data-aos="fade-up" data-aos-duration="2000">
+ 	  <div class="third-section" data-aos="fade-up" data-aos-duration="2000" id="services">
  	 		<h1 class=" text-center text-success all-headers">Our Products/Services</h1> <br>
  	 		<div class="container">
  	 			<div class="row">
@@ -125,9 +125,8 @@
  	 						</div>
  	 						<div class="card-body">
  	 							<h3 class="text-success">Sales of School Sports Kits</h3>
- 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							<p class="welcome-text">
+ 	 								Teworh Sports and Skills Centre specializes in the Production and Sales of quality School Sports kits ranging from track suits, Sport shirts, Shorts and even Socks.
  	 							</p>
  	 							<a class="btn btn-success" href="contact.php">Request a Quote</a>
  	 						</div>
@@ -141,7 +140,7 @@
                             	</div>
  	 						</div>
  	 						<div class="card-body">
- 	 							<h3 class="text-success">Sales of Artificial Grass</h3>
+ 	 							<h3 class="text-success">Tartan</h3>
  	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -151,7 +150,7 @@
  	 					</div>
  	 				</div>
  	 			</div> <br>
- 	 			<div class="row">
+ 	 			<div class="row" id="sportsservices">
  	 				<div class="col-md-4">
  	 					<div class="card shadow">
  	 						<div class="card-header">
@@ -159,7 +158,8 @@
  	 						</div>
  	 						<div class="card-body">
  	 							<h3 class="text-success">Sports Consultancy</h3>
- 	 							<p class="welcome-text">We Sale and supply all kinds of Artificial grasses for all kinds of pitches in and around the world. we also maintain and keep pitches in good conditions.
+ 	 							<p class="welcome-text">
+ 	 								At Teworh Sports and Skills Centre, we offer Sports Consultancy Services. we give you the best when it comes to sports consultancy
  	 							</p>
  	 							<a class="btn btn-success" href="contact.php">Request a Quote</a>
  	 						</div>
@@ -174,9 +174,9 @@
  	 						</div>
  	 						<div class="card-body">
  	 							<h3 class="text-success">Badmiton Club</h3>
- 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							<p class="welcome-text">
+ 	 								Our Badmiton Club is Top notch. Are you a lover of Badmiton, you could Signup and Join our Badmiton club.
+ 	 								We also produce Locally made Badmiton rackets, so you do not have a problem when it comes to badmiton kits.
  	 							</p>
  	 							<a class="btn btn-success" href="contact.php">Join Club</a>
  	 						</div>
@@ -191,9 +191,8 @@
  	 						</div>
  	 						<div class="card-body">
  	 							<h3 class="text-success">Cycling Club</h3>
- 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							<p class="welcome-text">
+ 	 								Teworh Sports and Skills Centre also has a cycling club. we sell good and quality bikes for Kids, young adults and Adults. It is always fun at our Cycling Club.
  	 							</p>
  	 							<a class="btn btn-success" href="contact.php">Join Club</a>
  	 						</div>
@@ -208,7 +207,8 @@
  	 						</div>
  	 						<div class="card-body">
  	 							<h3 class="text-success">Hiking Club</h3>
- 	 							<p class="welcome-text">We Sale and supply all kinds of Artificial grasses for all kinds of pitches in and around the world. we also maintain and keep pitches in good conditions.
+ 	 							<p class="welcome-text">
+ 	 								At Teworh foundation, we have a standard hiking club. regular competitions on hiking are really fun. Do well to Join today.
  	 							</p>
  	 							<a class="btn btn-success" href="contact.php">Join Club</a>
  	 						</div>
@@ -223,9 +223,8 @@
  	 						</div>
  	 						<div class="card-body">
  	 							<h3 class="text-success">Table Tennis Club</h3>
- 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							<p class="welcome-text">
+ 	 								Our Table tennis club is also active and running. It is open for all ages category. Do well to Join today
  	 							</p>
  	 							<a class="btn btn-success" href="contact.php">Join Club</a>
  	 						</div>
@@ -240,9 +239,8 @@
  	 						</div>
  	 						<div class="card-body">
  	 							<h3 class="text-success">Swimming Club</h3>
- 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							<p class="welcome-text">
+ 	 								At Teworh FOundation, we have a swimming club. Do you love swimming, do well to register. it is open for Kids and young adults.
  	 							</p>
  	 							<a class="btn btn-success" href="contact.php">Join Club</a>
  	 						</div>

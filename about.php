@@ -27,10 +27,11 @@
  	 			<div class="row">
  	 				<div class="col-md-12">
  	 					<div class="welcome" data-aos="fade-left"  data-aos-duration="3000">
- 	 						<h1 class="text-center teworh">Our Vison and Mission</h1>
- 	 						<h4 class="text-center all-headers">We Use the Transformation Power of Play to effect social change among children, young people and adults.</h4>
+ 	 						<h1 class="text-center teworh">Our Sole Aim is to</h1>
+ 	 						<h4 class="text-center all-headers"> Use the Transformation Power of Play to effect social change among children, young people and adults.</h4>
 		 	 				
  	 					</div>
+ 	 					
  	 					
  	 				</div>
  	 			</div>
@@ -56,6 +57,25 @@
  	 		</div>
  	 </div>
 
+ 	  <div class="ssc" >
+ 		 	<div class="container">
+ 		 		<div class="row">
+ 		 			<div class="col-md-12">
+ 		 				<div class="welcome" data-aos="fade-left"  data-aos-duration="3000">
+ 	 						<h1 class="text-center text-light all-headers">Teworh Sports and Skills Centre</h1>
+ 	 						<h4 class="text-center all-headers text-light">
+ 	 							Teworh Sports and Skill Centre is a profit Based Organization that offers a wide range of Services from Sports consultancy to Sales of Sports KIts and Wares and lots more
+ 	 						</h4> <br>
+ 	 						<div class="two-buttons">
+		 	 					<a class="btn btn-success" href="services.php">Go to Sports and Skills Centre</a> 
+		 	 				</div>
+ 	 					</div>
+ 	 					
+ 		 			</div>
+ 		 		</div>
+ 		 	</div>
+ 		 </div>
+
  	 <div class="second-section" data-aos="fade-up" data-aos-duration="2000">
  	 	<h1 class=" text-center text-success all-headers">Our Leadership Team</h1> <br>
  	 		<div class="container">
@@ -78,6 +98,8 @@
  	 			</div>
  		 </div>
 
+ 		
+
  		<div  class="first-section" id="fa-section">
  	 		<div class="container">
  	 			<div class="row">
@@ -85,7 +107,7 @@
  	 					<div class="welcome" data-aos="fade-left"  data-aos-duration="3000">
  	 						<h1 class="text-center teworh">We seek to train and raise a new set of purpose oriented youths in our society</h1>
 		 	 				<div class="two-buttons">
-		 	 					<a class="btn btn-danger" href="fa.php">See our Sporting Activities</a> 
+		 	 					<a class="btn btn-danger" href="services.php#sportsservices">See our Sporting Activities</a> 
 		 	 				</div>
  	 					</div>
  	 					
