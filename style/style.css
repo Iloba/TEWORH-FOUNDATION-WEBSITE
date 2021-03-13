@@ -79,6 +79,9 @@ body{
 .card-header{
 	background: transparent;
 }
+ul li{
+	color: #6e6e70;
+}
 
 footer{
 	color: #6e6e70;
