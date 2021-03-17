@@ -31,7 +31,7 @@
  				<div class="col-md-11 mx-auto">
  					<div class="" data-aos="fade-left"  data-aos-duration="3000">
 						<div class="gallery-section">
-							<h1 class="all-headers text-center text-success">Gallery Section</h1>
+							<h1 class="all-headers text-center text-success py-2">Gallery Section</h1>
 							
 							<div class="row no-gutters gallerys">
 								<div class="col-md-3">
@@ -73,6 +73,20 @@
 								</div>
 								<div class="col-md-3">
 									<a target="_blank" href="img/gal12.jpg"><img class="img-fluid" src="img/gal12.jpg"></a>
+								</div>
+							</div> <br>
+							<div class="row no-gutters gallerys">
+								<div class="col-md-3">
+									<a target="_blank" href="img/gf1.jpg"><img class="img-fluid" src="img/gf1.jpg"></a>
+								</div>
+								<div class="col-md-3">
+									<a target="_blank" href="img/gf2.jpg"><img class="img-fluid" src="img/gf2.jpg"></a>
+								</div>
+								<div class="col-md-3">
+									<a target="_blank" href="img/gf3.jpg"><img class="img-fluid" src="img/gf3.jpg"></a>
+								</div>
+								<div class="col-md-3">
+									<a target="_blank" href="img/gf5.jpg"><img class="img-fluid" src="img/gf5.jpg"></a>
 								</div>
 							</div>
 						</div> 						

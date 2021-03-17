@@ -46,7 +46,7 @@ body{
 	background-attachment: fixed;
 	background-position: center top;
 	padding: 20px;
-	height: 670px;
+	height: auto;
 
 }
 #about-first-section{
@@ -182,6 +182,7 @@ label{
 .gallery-section{
 	background: #fff;
 	padding: 20px;
+	height: auto;
 }
 .ssc{
 	padding: 60px;
@@ -192,6 +193,9 @@ label{
 }
 .why-us{
 	padding: 60px;
+}
+.first-letter::first-letter{
+	font-size: 400%;
 }
 
 

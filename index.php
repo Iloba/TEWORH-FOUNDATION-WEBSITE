@@ -55,7 +55,7 @@
 		 	 				</div>
  	 					</div>
  	 					<div class="col-md-6">
- 	 						<img class="img-fluid" src="img/teworh-6.jpg">
+ 	 						<img class="img-fluid" src="img/teworh-7.jpg">
  	 					</div>
  	 			</div>
  	 		</div>
@@ -158,9 +158,8 @@
  	 						</div>
  	 						<div class="card-body">
  	 							<h3 class="text-success">Sales of School Sports Kits</h3>
- 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							<p class="welcome-text">
+ 	 								Teworh Sports and Skills Centre specializes in the Production and Sales of quality School Sports kits ranging from track suits, Sport shirts, Shorts and even Socks.
  	 							</p>
  	 							<a class="btn btn-success" href="services.php">Learn more</a>
  	 						</div>
@@ -174,10 +173,9 @@
                             	</div>
  	 						</div>
  	 						<div class="card-body">
- 	 							<h3 class="text-success">Tartan</h3>
- 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							<h3 class="text-success">Tartan Track and Laminate Wood Floors</h3>
+ 	 							<p class="welcome-text">
+ 	 								 We also Sale and Install quality Tartan and Laminate wood floors for sports centres
  	 							</p>
  	 							<a class="btn btn-success" href="services.php">Learn more</a>
  	 						</div>

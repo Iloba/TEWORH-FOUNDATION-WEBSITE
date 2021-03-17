@@ -7,7 +7,7 @@
  	 		<div class="container">
  	 			<div class="row">
 	 	 			<div class="col-md-4">
-	 	 				<h3 class="text-success">Visit Us</h3>
+	 	 				<h3 class="text-success">Contact Us</h3>
 	 	 				<p>
 	 	 					14, Worshippers Close Malali, Kaduna, Kaduna State
 	 	 					<br>

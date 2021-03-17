@@ -28,10 +28,10 @@
  	 				<div class="col-md-12">
  	 					<div class="welcome" data-aos="fade-left"  data-aos-duration="3000">
  	 						<h1 class="text-center teworh">Teworh Sports and Skill Centre</h1>
- 	 						<h2 class="text-center all-headers">Profit Based Business Organization</h2>
-		 	 				<p class="text-center">
-		 	 					We use 5% of Our Profit from the Sports and Skill Centre to Support the Foundation
-							</p>
+		 	 				<h3 class="text-center all-headers">
+		 	 				Teworh Sports and Skill Centre is a team of Experts operating a Social-Entreprenuer model that gives
+              part of the Proceeds to fight against drug/Substance abuse, bully and other social vices in our Society.
+							</h3>
 		 	 				<!-- <div class="two-buttons">
 		 	 					<a class="btn btn-success" href="about.php">Our Vision</a> 
 		 	 					<a class="btn btn-danger" href="#">Donate</a>
@@ -47,8 +47,19 @@
  	 		<div class="container">
  	 			<div class="row">
  	 					<div class="col-md-6">
- 	 						<h3 class="text-success all-headers">TEWORH FOUNDTION IS A PROFIT BASED BUSINESS ORGANIZATION</h3>
- 	 						<p class="welcome-text">The Teworh Sports and Skills Centre is Located in Kaduna. We offer a wide range of services which includes  <br>
+ 	 						<h3 class="text-success all-headers">TEWORH SPORTS AND SKILLS CENTRE</h3> <br>
+ 	 						<p class="welcome-text first-letter">Teworh Sports and Skill Centre is a team of Experts operating a Social-Entreprenuer model that gives
+              part of the Proceeds to fight against drug/Substance abuse, bully and other social vices in our Society.
+
+              <br> <br>
+              Our business Expertise is in setting up and managing of sports facilities from a minor children playground, sports arena (5 Aside Football Field, Badmiton court Etc) to world class sports centres. We deliver on the purchase and installment of syntethic grass, Tartan Tracks, Laminate wood floor, fire resistant carpet and all landscaping Jobs.
+
+              <br> <br>
+              In Our Team are highly experinced, focused, passionate abd disciplined sports consultants/facility managers working with business and financial experts that recognizes the place of collaboration and teamwork as tools for achieving success in business and in a contemporary world.
+
+              <br> <br>
+              We assure you that we will exceed your expectations and provide you with a cost effective, affordable and efficient service in all our engagement with you. Below are the list of other services we offer
+                <br>
  	 							<ul>
  	 								<li>
  	 									Sports Consultancy
