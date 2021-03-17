@@ -97,13 +97,16 @@ body{
 	line-height: 30px;
 	color: #6e6e70;
 }
-.form-control{
+#form-controls{
 	height: 60px;
 	font-size: 20px;
 	color: green;
-}
+} 
 
 .form-control::placeholder{
+	color: green;
+}
+textarea::placeholder{
 	color: green;
 }
 .all-headers{
@@ -186,6 +189,9 @@ label{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
+}
+.why-us{
+	padding: 60px;
 }
 
 

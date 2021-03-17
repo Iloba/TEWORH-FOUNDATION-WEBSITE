@@ -211,7 +211,7 @@
 	<script>
   		AOS.init();
 	</script>
-	<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js"></script>
+	<!-- <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js"></script>
 	<script>
 	
 		gsap.from('#teworh', 
@@ -220,6 +220,6 @@
 			// opacity: 0, duration: 1, y: -50, ease: 'Power2.easeInOut'
 		});
 
-	</script>
+	</script> -->
 </body>
 </html>

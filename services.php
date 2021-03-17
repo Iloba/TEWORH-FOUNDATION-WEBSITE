@@ -140,10 +140,9 @@
                             	</div>
  	 						</div>
  	 						<div class="card-body">
- 	 							<h3 class="text-success">Tartan</h3>
- 	 							<p class="welcome-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	 	 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	 	 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	 							<h3 class="text-success">Tartan Track and Laminate Wood Floors</h3>
+ 	 							<p class="welcome-text">
+                  We also Sale and Install quality Tartan and Laminate wood floors for sports centres 
  	 							</p>
  	 							<a class="btn btn-success" href="contact.php">Request a Quote</a>
  	 						</div>
@@ -250,7 +249,20 @@
  	 		</div>
  	 </div>
 
- 	 
+   <hr style="border: 4px dotted green">
+
+ 	 <div class="why-us" data-aos="fade-up" data-aos-duration="2000">
+      <div class="container">
+          <div class="col-md-12">
+              <h1 class="all-headers text-center text-success">Why Teworh Sports and Skills Centre</h1>
+              <p class="text-center welcome-text">
+                At Teworh Sports and Skills Center we belive in Trustworthiness, Honesty and Proffesionalism. 
+                We deliver our services with the best factors. We also work with our Clients in mind.
+                At Teworh Sports and Skills Centre, we Use 5% of our Profit to aid the Development of the Foundation (Teworh Foundation).  
+              </p>
+          </div>
+      </div>
+   </div>
 
  		<div  class="first-section" id="fa-section">
  	 		<div class="container">
@@ -274,7 +286,7 @@
 
 
 
- 	  <div class="container-fluid">
+ 	  <div class="container-fluid p-5">
             <div class="row">
                 <div class="col-md-12">
                     <div class="mapsection" data-aos="fade-up" data-aos-duration="2000">
