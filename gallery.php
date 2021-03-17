@@ -32,18 +32,47 @@
  					<div class="" data-aos="fade-left"  data-aos-duration="3000">
 						<div class="gallery-section">
 							<h1 class="all-headers text-center text-success">Gallery Section</h1>
+							
 							<div class="row no-gutters gallerys">
 								<div class="col-md-3">
-									<a target="_blank" href="img/teworh-1.jpg"><img class="img-fluid" src="img/teworh-1.jpg"></a>
+									<a target="_blank" href="img/gal1.jpg"><img class="img-fluid" src="img/gal1.jpg"></a>
 								</div>
 								<div class="col-md-3">
-									<a target="_blank" href="img/teworh-1.jpg"><img class="img-fluid" src="img/teworh-1.jpg"></a>
+									<a target="_blank" href="img/gal2.jpg"><img class="img-fluid" src="img/gal2.jpg"></a>
 								</div>
 								<div class="col-md-3">
-									<a target="_blank" href="img/teworh-1.jpg"><img class="img-fluid" src="img/teworh-1.jpg"></a>
+									<a target="_blank" href="img/gal3.jpg"><img class="img-fluid" src="img/gal3.jpg"></a>
 								</div>
 								<div class="col-md-3">
-									<a target="_blank" href="img/teworh-1.jpg"><img class="img-fluid" src="img/teworh-1.jpg"></a>
+									<a target="_blank" href="img/gal-4.jpg"><img class="img-fluid" src="img/gal-4.jpg"></a>
+								</div>
+							</div> <br>
+							<div class="row no-gutters gallerys">
+								<div class="col-md-3">
+									<a target="_blank" href="img/gal-5.jpg"><img class="img-fluid" src="img/gal-5.jpg"></a>
+								</div>
+								<div class="col-md-3">
+									<a target="_blank" href="img/gal6.jpg"><img class="img-fluid" src="img/gal6.jpg"></a>
+								</div>
+								<div class="col-md-3">
+									<a target="_blank" href="img/gal7.jpg"><img class="img-fluid" src="img/gal7.jpg"></a>
+								</div>
+								<div class="col-md-3">
+									<a target="_blank" href="img/gal8.jpg"><img class="img-fluid" src="img/gal8.jpg"></a>
+								</div>
+							</div> <br>
+							<div class="row no-gutters gallerys">
+								<div class="col-md-3">
+									<a target="_blank" href="img/gal9.jpg"><img class="img-fluid" src="img/gal9.jpg"></a>
+								</div>
+								<div class="col-md-3">
+									<a target="_blank" href="img/gal10.jpg"><img class="img-fluid" src="img/gal10.jpg"></a>
+								</div>
+								<div class="col-md-3">
+									<a target="_blank" href="img/gal11.jpg"><img class="img-fluid" src="img/gal11.jpg"></a>
+								</div>
+								<div class="col-md-3">
+									<a target="_blank" href="img/gal12.jpg"><img class="img-fluid" src="img/gal12.jpg"></a>
 								</div>
 							</div>
 						</div> 						
